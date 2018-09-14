@@ -5,15 +5,15 @@
 Live example: GOD (http://beer.openode.us)
 
 
-#Get started
+# Get started
 
 **Install the latest version of npm**
 ```
--- download [npm js](https://www.npmjs.com/)
+-- download https://www.npmjs.com/
 ```
 **Import GOD (GrowOrDie) repository**
 ```
--- url [github/GrowOrDie](https://github.com/Flowlessx/GrowOrDie.git)
+-- url https://github.com/Flowlessx/GrowOrDie.git
 ```
 **Open cmd & head to your local repository**
 ```
