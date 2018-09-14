@@ -9,7 +9,7 @@ Live example: GOD (http://beer.openode.us)
 
 **Install the latest version of npm**
 
-[npm download]  (https://www.npmjs.com/)
+[npm download](https://www.npmjs.com/)
 
 **Import GOD (GrowOrDie) repository**
 ```
