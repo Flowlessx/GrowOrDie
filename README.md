@@ -8,21 +8,21 @@ Live example: GOD (http://beer.openode.us)
 # Get started
 
 **Install the latest version of npm**
-```
--- download https://www.npmjs.com/
-```
+
+[npm download]  (https://www.npmjs.com/)
+
 **Import GOD (GrowOrDie) repository**
 ```
--- url https://github.com/Flowlessx/GrowOrDie.git
+-- https://github.com/Flowlessx/GrowOrDie.git
 ```
 **Open cmd & head to your local repository**
 ```
--- code: cd ["local/directory"]
+cd ["local/directory"]
 ```
 
 **Type node app.js to start the local Node js server**
 ```
--- localhost url [localhost:2000]
+ [localhost:2000]
 ```
 **Create an account && login**
 
