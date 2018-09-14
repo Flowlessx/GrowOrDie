@@ -2,7 +2,7 @@
 
 **A html5 16bit multiplayer game running on Node.js**
 
-Live example: GOD (http://beer.openode.us)
+Live example: GOD (http://beer.openode.io)
 
 
 # Get started
