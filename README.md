@@ -32,8 +32,3 @@ cd ["local/directory"]
 A quote of God:
 
 > Hmmm dat search ik wel
-
-
-
-
-**// npm packages**
